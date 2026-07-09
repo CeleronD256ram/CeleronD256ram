@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CeleronD256ram/CeleronD256ram/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CeleronD256ram/CeleronD256ram/output/pacman-contribution-graph.svg">
